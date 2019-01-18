@@ -35,7 +35,7 @@ canvas
   align-self:center;
   margin:0 auto
 }
-.logo + p
+.logo
 {
   font-family:'Indie Flower',cursive;
   font-size:55px;
