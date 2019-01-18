@@ -20,22 +20,29 @@ body
   line-height:28px;
   font-size:19px
 }
-canvas{background:#111}
-#wrapper{padding:0 15px;height:100%;display:flex}
-.content{align-self:center;margin:0 auto}
-.big
+canvas
 {
-  font-family:"Broadway";
-  font-size:60px;
+  background:#111
+}
+#wrapper
+{
+  padding:0 15px;
+  height:100%;
+  display:flex
+}
+.content
+{
+  align-self:center;
+  margin:0 auto
+}
+.logo + p
+{
+  font-family:'Indie Flower',cursive;
+  font-size:55px;
   line-height:60px;
   margin-bottom:43px;
   padding-bottom:25px;
   border-bottom:1px dashed #fff
-}
-.big + p
-{
-  font-family:'Indie Flower',cursive;
-  font-size:35px
 }
 @media (max-width: 1050px)
 {
