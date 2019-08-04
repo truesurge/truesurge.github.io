@@ -1,1 +1,6 @@
-Xiaomi PRO v1.5.5 factory firmware
+dev: M365;
+nam: DRV155;
+enc: B;
+typ: DRV;
+md5: 0a1073f8326f64113ae65df5b8b58504;
+md5e: 516e386b55a21f55ae3edc2435b4d0e1;
