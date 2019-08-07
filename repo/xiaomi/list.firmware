@@ -1,11 +1,6 @@
 dev: M365;
-pos: 1;
+nam: DRV152;
 nam: DRV155;
-enc: B;
-typ: DRV;
-url: http://ninebot.fun/repo/xiaomi/DRV155/;
-pos: 2;
 nam: DRV160;
-enc: B;
-typ: DRV;
-url: http://ninebot.fun/repo/xiaomi/DRV160/;
+nam: BMS116;
+nam: BLE090;
