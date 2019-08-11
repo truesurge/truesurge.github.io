@@ -1,0 +1,4 @@
+dev: ES/SNSC;
+nam: DRV139;
+enc: B;
+typ: DRV;
