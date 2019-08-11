@@ -1,0 +1,4 @@
+dev: ES/SNSC;
+nam: DRV120;
+enc: B;
+typ: DRV;
