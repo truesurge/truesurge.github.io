@@ -1,0 +1,6 @@
+dev: M365;
+nam: BMS107;
+enc: N;
+typ: BMS;
+
+

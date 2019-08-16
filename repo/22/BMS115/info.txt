@@ -1,0 +1,6 @@
+dev: M365;
+nam: BMS115;
+enc: N;
+typ: BMS;
+
+
