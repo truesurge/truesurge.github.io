@@ -1,4 +1,4 @@
-This version of firmware based on 1.5.5 M365 PRO.
-Battery currents and speed limits modified to suit
+This version of firmware is based on 1.5.5 M365 PRO.
+Battery currents and speed limits are modified to suit
 hardware of classic 365. Install it if you are using
 PRO bluetooth module a.k.a dashboard.
