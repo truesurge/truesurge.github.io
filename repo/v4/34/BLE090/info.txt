@@ -1,0 +1,5 @@
+dev: M365;
+nam: BLE090;
+enc: N;
+typ: BLE;
+md5: 5a8acb28ccdb7b8861b02483e3ab48b9;

@@ -1,0 +1,4 @@
+dev: ES/SNSC;
+nam: BLE107;
+enc: B;
+typ: BLE;
