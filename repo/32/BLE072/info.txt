@@ -1,0 +1,6 @@
+dev: M365;
+nam: BLE072;
+enc: N;
+typ: BLE;
+md5: 9972c07dc30bf8a35ae833aa06dc94d5;
+md5e: e920aef71b06e30843221f6aa8f950d1;
